@@ -1,3 +1,16 @@
-D 'ppml': Poisson pseudo maximum likelihood (PPML) estimation Use ppml With STATA 19
-F ppml.ado
-F ppml.sthlp
+D 'tregs': Linear regression with transformed dependent variable Use tregs With STATA 19
+F _eststo.ado
+F _eststo.hlp
+F estadd.ado
+F estadd.hlp
+F estout.ado
+F estout.hlp
+F estpost.ado
+F estpost.hlp
+F eststo.ado
+F eststo.hlp
+F esttab.ado
+F esttab.hlp
+F treg.ado
+F tregs.ado
+F tregs.sthlp
